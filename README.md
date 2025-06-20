@@ -1,6 +1,6 @@
 # Kamaro: Country Vulnerability Classification
 
-## Data source: https://www.kaggle.com/datasets/hellbuoy/pca-kmeans-hierarchical-clustering?resource=download&select=data-dictionary.csv
+## Data source: https://www.kaggle.com/datasets/hellbuoy/pca-kmeans-hierarchical-clustering
 
 ##  Problem Statement
 
@@ -21,7 +21,7 @@ This project aims to classify countries based on their **socio-economic and heal
 | 3        | RMSprop    | 0.005         | 0.5     | 0.005             | No             | 75     | 0.7632   | 0.7134 | 0.7525   | 0.7591    | 0.7456 |
 | 4        | SGD        | 0.01          | 0.2     | 0.01              | Yes            | 92     | 0.7351   | 0.7290 | 0.7217   | 0.7360    | 0.7184 |
 
----
+
 
 ##  Summary of Findings
 
@@ -30,7 +30,6 @@ This project aims to classify countries based on their **socio-economic and heal
 - Too high dropout or regularization (Instances 3 & 4) led to performance dips.
 - Early stopping consistently improved training time and generalization.
 
----
 
 ##  Classical ML vs Neural Network
 
