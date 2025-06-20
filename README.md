@@ -44,5 +44,5 @@ This project aims to classify countries based on their **socio-economic and heal
 
 ---
 
-## Video:
+## Video: https://drive.google.com/file/d/1Ljmj6ot7R3kC_hf3_TXvoapbIAY9qylb/view?usp=sharing
 
